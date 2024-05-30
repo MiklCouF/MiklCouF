@@ -3,7 +3,7 @@
 ### <div align="center">I'm Michaël, a developer student 👨‍💻</div>  <br/>
   
 
-- 🔭 I’m currently working on 3 project, links incoming, but you will find them in my GitHub  
+- 🔭 I’m currently working on 3 project, links incoming, but you will find some of them in my GitHub  
   
 
 - 🌱 I’m currently learning JS, React, SQL, Express.js, and many more !!
