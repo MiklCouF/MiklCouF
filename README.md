@@ -43,10 +43,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiklCouf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 
