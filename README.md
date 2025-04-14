@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on 3 project, links incoming, but you will find some of them in my GitHub  
   
 
-- 🌱 I’m currently learning JS, React, SQL, Express.js, and many more !!
+- 🌱 I’m currently learning JS, React, Vue 2/2.5/3, Nuxt, SQL, Express.js, and many more !!
   
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/michaël-couffignal-0958b061/" target="_blank">linkedin </a>
   
